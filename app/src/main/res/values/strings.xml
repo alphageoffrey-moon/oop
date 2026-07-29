@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vehicle OOP</string>
+    <string name="title">Vehicle OOP Demo</string>
+    <string name="subtitle">Enter a brand, then choose the vehicle type. The app will demonstrate abstraction, inheritance, encapsulation and polymorphism.</string>
+    <string name="brand_hint">Enter Vehicle Brand</string>
+    <string name="show_car">Show Car</string>
+    <string name="show_motorcycle">Show Motorcycle</string>
+</resources>
